@@ -1,3 +1,4 @@
 .idea/
 diary.log
 *.csv
+*.pyc

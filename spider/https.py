@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from src.setting import IP, UA
+from spider.setting import IP, UA
 import requests, random
 import logging
 

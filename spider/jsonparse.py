@@ -2,7 +2,7 @@
 import re
 import demjson
 import pandas as pd
-from src.setting import col_names
+from spider.setting import col_names
 
 class JsonParse:
     '''
