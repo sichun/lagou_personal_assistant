@@ -2,3 +2,5 @@
 diary.log
 *.csv
 *.pyc
+gadm36_CHN_shp/
+*.html
